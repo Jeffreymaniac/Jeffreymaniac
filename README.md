@@ -32,4 +32,4 @@ Animes I watched/am watching:
 
 Go here for more info about me:
 
-https://about.me/jeffrey-b
+https://jeffreymaniac.github.io

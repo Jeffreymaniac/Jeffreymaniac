@@ -4,8 +4,6 @@
 
 ## I'm a developer!
 
-I'm also not ashamed of being one! 
-
 I'm a web developer, so I can make a good website for you.
 
 The programming languages I know:
